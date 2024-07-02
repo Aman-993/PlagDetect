@@ -1,1 +1,1 @@
-# PlagDectect
+# PlagDetect
